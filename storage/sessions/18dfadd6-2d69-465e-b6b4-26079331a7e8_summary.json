@@ -1,0 +1,51 @@
+{
+  "user_profile": {
+    "preferences": [
+      "traditional culture",
+      "local cuisine with gluten-free options",
+      "quieter accommodations"
+    ],
+    "constraints": [
+      "limited time (3 weeks)",
+      "cherry blossom season timing",
+      "language barrier due to not speaking Japanese"
+    ],
+    "interests": [
+      "temples and tea ceremonies",
+      "traditional crafts",
+      "food, especially sushi, ramen, tempura, okonomiyaki, takoyaki, kaiseki",
+      "nature (temple gardens, mountains)"
+    ]
+  },
+  "key_facts": [
+    "spring in Japan for cherry blossoms",
+    "itinerary: Tokyo 5-6 days, Kyoto 6 days with day trips, Osaka 3 days, Hiroshima 2 days, rural areas for a few days",
+    "14-day JR Pass recommended due to multiple long-distance travels",
+    "ryokans in Gion and Higashiyama as preferred accommodations",
+    "must-try foods: sushi, ramen (shoyu, miso, tonkotsu), okonomiyaki, takoyaki, kaiseki"
+  ],
+  "decisions": [
+    "5 days Tokyo, 6 days Kyoto with day trips, 3 days Osaka, 2 days Hiroshima, few days for Takayama or Kanazawa",
+    "14-day JR Pass for travel between cities",
+    "Ryokan in Gion and Higashiyama as accommodations",
+    "Nishijin district for souvenirs like kimono or yukata",
+    "Google Maps and Tabelog app recommendations for navigation and restaurant bookings"
+  ],
+  "open_questions": [
+    "Specific temples to visit beyond Kiyomizu-dera, Fushimi Inari in Kyoto",
+    "Detailed restaurant recommendations within specific neighborhoods",
+    "Additional souvenirs besides kimono or yukata",
+    "Travel insurance details and specific coverage needed"
+  ],
+  "todos": [
+    "Book ryokans in Gion and Higashiyama",
+    "Research gluten-free options for ramen and okonomiyaki",
+    "Plan travel to Nikko or Kamakura day trip",
+    "Confirm restaurant reservations for popular spots",
+    "Prepare allergy cards and research local payment methods"
+  ],
+  "message_range_summarized": {
+    "from": 0,
+    "to": 29
+  }
+}

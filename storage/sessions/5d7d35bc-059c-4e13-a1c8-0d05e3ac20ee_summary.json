@@ -1,0 +1,47 @@
+{
+  "user_profile": {
+    "preferences": [
+      "quiet accommodations",
+      "traditional experience with ryokans",
+      "avoid big chain hotels"
+    ],
+    "constraints": [
+      "two weeks for trip",
+      "need gluten-free options",
+      "spouse has a small tattoo on the shoulder"
+    ],
+    "interests": [
+      "cherry blossoms",
+      "cultural experiences like temples and tea ceremonies",
+      "local cuisine"
+    ]
+  },
+  "key_facts": [
+    "travelling to Japan in spring during cherry blossom season",
+    "using shinkansen for transportation between cities",
+    "Tokyo-Kyoto-Osaka itinerary with ryokans in Kyoto",
+    "need for gluten-free dining options"
+  ],
+  "decisions": [
+    "choosing a JR Pass for transportation",
+    "booking ryokans in Gion, Kyoto and Nishijin district for souvenirs",
+    "getting a SIM card at the airport",
+    "using Skyliner from Narita to Ueno station and then Ginza line to Asakusa"
+  ],
+  "open_questions": [],
+  "todos": [
+    "Book remaining accommodations",
+    "Reserve popular restaurants if desired",
+    "Order JR Pass if getting one",
+    "Book SIM card for airport pickup",
+    "Get Japanese yen or confirm ATM access",
+    "Print or save: hotel addresses in Japanese, allergy cards, emergency numbers",
+    "Download offline Google Maps for Japan",
+    "Check if any attractions need advance tickets",
+    "Confirm travel insurance"
+  ],
+  "message_range_summarized": {
+    "from": 0,
+    "to": 37
+  }
+}

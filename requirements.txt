@@ -1,0 +1,4 @@
+# Chat Assistant Dependencies
+pydantic>=2.0.0
+langchain-community>=0.2.0
+gradio>=4.0.0

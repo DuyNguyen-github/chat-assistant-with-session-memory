@@ -1,0 +1,15 @@
+{
+  "user_profile": {
+    "preferences": [],
+    "constraints": [],
+    "interests": []
+  },
+  "key_facts": [],
+  "decisions": [],
+  "open_questions": [],
+  "todos": [],
+  "message_range_summarized": {
+    "from": 0,
+    "to": 5
+  }
+}
