@@ -191,7 +191,7 @@ Once the Gradio interface loads:
 1. Click the **"Load Test Data"** dropdown and select `demo-flow1.jsonl`
 2. Click **"Load Test Data"** button
 3. **Expected result:**
-   - ~40 conversation turns load into the chat history
+   - ~78 conversation turns load into the chat history
    - System automatically detects token threshold exceeded
    - **Console shows:** `[SessionManager] Token threshold exceeded (3057 > 3000)`
    - Summary is extracted and saved
@@ -209,15 +209,6 @@ Once the Gradio interface loads:
      - "Mục đích sử dụng máy tính là gì?" (What's the purpose?)
      - "Budget of around how much?" (Budget?)
    - User provides clarification, system responds with context
-
-**Demo 3: Long Conversation**
-1. Click **"Load Test Data"** and select `demo-flow2.jsonl`
-2. Have multiple conversation turns
-3. Observe status bar showing:
-   - Session ID
-   - Message count
-   - Token count
-   - Summary status (if active)
 
 ---
 
