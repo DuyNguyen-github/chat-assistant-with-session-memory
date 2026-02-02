@@ -210,12 +210,12 @@ Once the Gradio interface loads:
      - "Budget of around how much?" (Budget?)
    - User provides clarification, system responds with context
 
-> 📁 **All demo results and outputs are stored in the `demo/` folder**
-> 
-> - `demo/flow1/` - Contains screenshots, terminal output, and detailed flow description for Demo 1 (Automatic Summarization)
-> - `demo/flow2/` - Contains screenshots, terminal output, and detailed flow description for Demo 2 (Query Understanding & Clarification)
-> 
-> View these files to see expected outputs and behavior of the chat assistant in action.
+**All demo results and outputs are stored in the `demo/` folder**
+
+ - `demo/flow1/` - Contains screenshots, terminal output, and detailed flow description for Demo 1 (Automatic Summarization)
+ - `demo/flow2/` - Contains screenshots, terminal output, and detailed flow description for Demo 2 (Query Understanding & Clarification)
+
+ View these files to see expected outputs and behavior of the chat assistant in action.
 ---
 
 ## High-Level Design Explanation
