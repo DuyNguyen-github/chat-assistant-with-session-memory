@@ -13,6 +13,7 @@ A multi-language Python chat assistant powered by **Qwen2.5 (via Ollama)**, feat
 - [Prerequisites](#prerequisites)
 - [Setup Instructions](#setup-instructions)
 - [How to Run the Demo](#how-to-run-the-demo)
+- [Demo result](#demo-result)
 - [High-Level Design Explanation](#high-level-design-explanation)
 - [Project Architecture](#project-architecture)
 - [Usage Guide](#usage-guide)
@@ -209,7 +210,9 @@ Once the Gradio interface loads:
      - "Mục đích sử dụng máy tính là gì?" (What's the purpose?)
      - "Budget of around how much?" (Budget?)
    - User provides clarification, system responds with context
+---
 
+### Demo Result
 **All demo results and outputs are stored in the `demo/` folder**
 
  - `demo/flow1/` - Contains screenshots, terminal output, and detailed flow description for Demo 1 (Automatic Summarization)
