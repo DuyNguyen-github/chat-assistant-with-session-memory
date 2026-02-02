@@ -56,19 +56,13 @@ When a user sends a message, the system:
 4. **Generates Clarifying Questions** - Asks 1-3 focused questions if clarification is needed
 5. **Computes Confidence Score** - Estimates understanding certainty (0.0-1.0)
 
-### 3. **Multi-Language Support**
-- Automatically detects language (Vietnamese, English, Chinese)
-- Responds in the same language as user input
-- Prevents language mixing in outputs
-- Supports diacritical marks and special characters
-
-### 4. **Interactive Clarification Workflow**
+### 3. **Interactive Clarification Workflow**
 - When query is ambiguous, assistant asks clarifying questions instead of guessing
 - User provides clarification
 - System combines original query + clarification for better understanding
 - Responds with full context awareness
 
-### 5. **Session Persistence**
+### 4. **Session Persistence**
 - Conversations saved as JSON files in `storage/sessions/`
 - Each session has:
   - Full conversation state
